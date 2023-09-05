@@ -1,1 +1,2 @@
-git is awesome! 
+222text new new
+experiment with amend
